@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $ciencia = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "EL AMBIENTE",
+"autor" => "Anthony Chavez",
+"resumen" => "El ambiente de hoy en día.",
 ];
 ?>
